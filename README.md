@@ -1,46 +1,69 @@
-# IHC_Lab_Conecta2026
-Conecta CEUB 2026
+# 🔗 ACESSO AO PROJETO
 
-# Oficina "IHC Lab: Challenges & Desafios"
+## 📂 Google Drive
 
-**Profa. Kadidja Valéria de Oliveira**  
-**Conecta CEUB**: [https://institucional.uniceub.br/conecta2026](https://institucional.uniceub.br/conecta2026)
+### ➜ [Clique aqui para acessar os arquivos do projeto](https://drive.google.com/drive/folders/1T1cMYMeSpPQdxk0BVBSmERPI5tOoQ3Bq?utm_source=chatgpt.com)
 
-## Planejamento da Oficina: IHC Lab (14h30 – 16h30)
+---
 
-**Tema Central:** Desafios de IHC no Brasil (2025-2035), Acessibilidade Digital e Inovação Educacional
+# Projeto de Pesquisa — Navegação de Idosos em Ambientes Virtuais
 
-### 1. Abertura e Contextualização (10 min) – 14h30 às 14h40
-- **Apresentação do GranDIHC-BR:** Introdução aos sete grandes desafios da IHC no Brasil para o decênio 2025-2035, focando em ciência, tecnologia e educação para o bem-estar humano.  
-- **Eixos Estratégicos:** Breve exposição dos temas:
-  - Ética / IA
-  - Decolonialidade
-  - Humano-dados
-  - Tecnologias emergentes
-  - Abordagens teóricas
-  - Impactos socioculturais
-  - Inclusão
+## 📚 Sobre o Projeto
 
-### 2. Políticas Públicas e Estudos de Caso (10 min) – 14h40 às 14h50
-- **Acessibilidade na Prática:** Explicação sobre o eMAG (Governo Eletrônico) e o WCAG adaptado como ferramentas para superar barreiras em portais governamentais e apps de saúde.  
-- **Debate Rápido:** Quais barreiras de acessibilidade ainda persistem no cenário brasileiro atual?
+Este repositório reúne materiais relacionados à pesquisa sobre os desafios enfrentados por idosos na utilização de ambientes virtuais e redes sociais digitais.
 
-### 3. Pesquisa Orientada em Grupo (20 min) – 14h50 às 15h10
-- **Dinâmica:** Divisão dos 50 participantes em grupos (sugestão: 10 grupos de 5 pessoas).  
-- **Atividade:** Os grupos acessam a Biblioteca SOL da Sociedade Brasileira de Computação (SBC) para identificar eventos, jogos, artigos ou projetos relacionados a um dos eixos estratégicos escolhidos.
+O estudo aborda questões de:
 
-### 4. Desafio Prático: Criação de Protótipos (30 min) – 15h10 às 15h40
-- **Tarefa:** Criar um jogo educacional (ou protótipo) que represente o desafio de IHC estudado.  
-- **Formatos sugeridos:**
-  - Análise de Jogos Sérios de IHC
-  - Storyboard ou wireframe de uma interface inclusiva
-  - Quiz interativo (Kahoot, Genially) sobre barreiras de acessibilidade
-  - Storytelling gamificado focado em justiça social e decolonização
+* Acessibilidade e Inclusão
+* Pluralidade e Decolonialidade
+* Mercado de Formação
+* Sistemas Inteligentes
 
-### 5. Pitch e Feedback Coletivo (15 min) – 15h40 às 15h55
-- **Apresentação Oral:** Cada grupo realiza um pitch rápido (90 segundos) defendendo sua [proposta](https://docs.google.com/document/d/1eBZTBJyVoVI4FS8-QRU2AFrNB6xnv76or6kHX5uOz00/edit?usp=sharing).  
-- **Critérios de Avaliação:** Inovação, relevância social e alinhamento com as políticas públicas brasileiras.
+Além disso, apresenta propostas de soluções para tornar plataformas digitais mais intuitivas, acessíveis e inclusivas para a população idosa.
 
-### 6. Encerramento e Orientações (5 min) – 15h55 às 16h00
-- **Síntese final:** Reflexão sobre a prática de IHC socialmente responsável no cenário nacional.  
-- **Entrega:** Orientações para o relatório (síntese da pesquisa + descrição do jogo) e convite para projetos de iniciação científica ou extensão.
+---
+
+## 👨‍💻 Pesquisadores
+
+* Rafael Spillari
+* Marco Túlio Ferreira
+
+---
+
+## 🎯 Objetivo da Pesquisa
+
+Investigar as principais dificuldades enfrentadas por idosos na navegação em ambientes virtuais e propor melhorias voltadas para:
+
+* Melhor experiência do usuário
+* Inclusão digital
+* Interfaces acessíveis
+* Sistemas mais intuitivos
+* Uso de tecnologias inteligentes
+
+---
+
+## 🧩 Principais Desafios Identificados
+
+* Dificuldade de compreensão das interfaces
+* Problemas de acessibilidade visual
+* Navegação complexa
+* Falta de suporte e feedback claros
+* Mudanças automáticas nas plataformas
+
+---
+
+## 💡 Possíveis Soluções
+
+* Interfaces simplificadas
+* Fontes maiores e melhor contraste
+* Tutoriais acessíveis
+* Personalização da interface
+* Redução de notificações excessivas
+* Programas de inclusão digital
+* Uso de inteligência artificial adaptativa
+
+---
+
+## 📖 Referência Base
+
+SACRAMENTO, Carolina et al. *Pontos de Verificação para o Desenvolvimento de Redes Sociais Online: Um Estudo de Caso com Idosos Brasileiros no Facebook*. IHC 2019.
