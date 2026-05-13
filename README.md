@@ -38,7 +38,7 @@ Conecta CEUB 2026
   - Storytelling gamificado focado em justiça social e decolonização
 
 ### 5. Pitch e Feedback Coletivo (15 min) – 15h40 às 15h55
-- **Apresentação Oral:** Cada grupo realiza um pitch rápido (90 segundos) defendendo sua proposta.  
+- **Apresentação Oral:** Cada grupo realiza um pitch rápido (90 segundos) defendendo sua [proposta](https://docs.google.com/document/d/1eBZTBJyVoVI4FS8-QRU2AFrNB6xnv76or6kHX5uOz00/edit?usp=sharing).  
 - **Critérios de Avaliação:** Inovação, relevância social e alinhamento com as políticas públicas brasileiras.
 
 ### 6. Encerramento e Orientações (5 min) – 15h55 às 16h00
